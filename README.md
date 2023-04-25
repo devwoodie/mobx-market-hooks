@@ -1,6 +1,5 @@
-## React Hooks + Mobx
+# React Hooks + Mobx
 
----
 
 `환경 설정` 
 <br/>
